@@ -1,21 +1,22 @@
 {
-    "name": "pepperoni",
-    "displayName": "pepperoni",
-    "description": "A clean, minimal mid-contrast VS Code theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pepperoni",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pepperoni-color-theme.json"
-            }
-        ]
-    }
+  "name": "pepperoni",
+  "displayName": "Pepperoni — Crisp Minimal Theme",
+  "description": "A clean, minimal mid-contrast VS Code theme",
+  "version": "0.1.0",
+  "repository": "https://github.com/didiercatz/pepperoni",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pepperoni",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pepperoni-color-theme.json"
+      }
+    ]
+  }
 }
