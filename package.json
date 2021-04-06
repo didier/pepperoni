@@ -1,9 +1,9 @@
 {
   "name": "pepperoni",
   "displayName": "Pepperoni — Crisp Minimal Theme",
-  "description": "A clean, minimal mid-contrast VS Code theme",
-  "version": "0.1.0",
-  "repository": "https://github.com/didiercatz/pepperoni",
+  "description": "a fresh and legible VS Code theme",
+  "version": "1.0.0",
+  "repository": "https://github.com/didier/pepperoni",
   "engines": {
     "vscode": "^1.41.0"
   },
